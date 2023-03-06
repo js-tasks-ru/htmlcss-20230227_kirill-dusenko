@@ -1,0 +1,49 @@
+
+
+  h1 {
+    color: #ffffff; /* Цвет заголовка */
+    font-size: 30pt; /* Размер шрифта в пунктах */
+    font-family: Georgia, Times, serif; /* Семейство шрифтов */
+    font-weight: bold; /* Нормальное начертание текста  */
+ 
+    
+  }
+  header {
+    background-color: #ff0000; /* Цвет фона веб-страницы */
+    color: #ffffff; /* Цвет основного текста */ 
+    height: 100px;
+    text-align: center;
+    
+  }
+  nav { 
+    background-color: #ffbb00; /* Цвет фона веб-страницы */
+    color: #ffffff; /* Цвет основного текста */ 
+    text-align: center;
+    height: 40px;
+    
+  }
+  main {
+    padding: 10px;
+    background-color: #3ab103; /* Цвет заголовка */
+  }
+  article {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #0105e6; /* Цвет заголовка */
+    color: #ffffff; /* Цвет основного текста */
+  }
+  footer {
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    background-color: #bd00b3; /* Цвет заголовка */
+    height: 100px;
+    vertical-align: middle
+  }
+
+  a {
+    font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+    color: #ffffff; /* Цвет основного текста */
+    font-weight: bold; /* Нормальное начертание текста  */
+    font-size: 11pt; /* Размер основного шрифта в пунктах  */
+  }
